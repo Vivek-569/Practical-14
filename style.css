@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:gray;
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4.5em;
+    margin-bottom: 50px;
+    color: #ebebeb;
+}
+
+p {
+    display: inline-block;
+    text-align: center;
+    font-size: 3rem;
+    margin: 0 70px;
+    color: yellow;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    background-color: yellow;
+    line-height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+}
